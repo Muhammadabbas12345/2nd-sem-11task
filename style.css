@@ -1,0 +1,373 @@
+body{
+    margin: 0%;
+}
+
+#sec1{
+    /* background-color: blueviolet; */
+    background-image: url(./1\ copy.jpg);
+    color: white;
+    padding-bottom: 5%;
+
+}
+
+.div1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 8%;
+    
+}
+
+.div1 h1{
+    font-size: 50px;
+}
+
+.div1 i{
+    margin-top: 3.5%;
+    border: 2px solid white;
+    padding: 1%;
+    height: 20px;
+    font-size: 20px;
+
+
+   
+}
+
+.div2{
+    text-align: center;
+    padding: 8% 0%;
+}
+
+.div2 h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div2 p{
+    font-size: 19px;
+    position: relative;
+    bottom: 30px;
+}
+
+.div2 hr{
+    width: 350px;
+}
+
+.hr1{
+    position: relative;
+    top: 30px;
+}
+
+
+.hr2{
+    position: relative;
+    bottom: 30px;
+}
+
+#sec2{
+    background-image: url(./Personal-Website-free-psd\ copy.jpg);
+    padding-top: 12%;
+    padding-bottom: 12%;
+    padding-right: 12%;
+    padding-left: 46%;
+}
+
+.div3 h1{
+    font-size: 18px;
+}
+
+.div3 p{
+    font-size: 16px;
+    opacity: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.div3 button{
+    padding: 2%;
+    width: 150px;
+    background-color: rgb(249, 55, 87);
+    color: white;
+   border: none;
+}
+
+#sec3{
+    background-color: rgb(210, 209, 209);
+    padding: 5% 8%;
+}
+
+#sec3 h1{
+    font-size: 43px;
+    text-align: center;
+
+}
+
+#sec3 p{
+    text-align: center;
+
+    opacity: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.maindiv1{
+    display: flex;
+    margin-top: 4%;
+}
+
+.div4{
+    background-color: rgb(28, 220, 220);
+    text-align: center;
+    padding: 8%;
+    color: white;
+    width: 100px;
+    height:80px;
+    margin: 1%;
+}
+
+.div4 i{
+    font-size: 40px;
+}
+
+.div4 h2{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.div5{
+    background-color: rgb(195, 50, 195);
+    text-align: center;
+    padding: 8%;
+    color: white;
+    width: 100px;
+    height:80px;
+    margin: 1%;
+}
+
+.div5 i{
+    font-size: 40px;
+    
+}
+
+.div5 h2{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+.div6{
+    background-color: rgb(22, 22, 94);
+    text-align: center;
+    padding: 8%;
+    color: white;
+    width: 100px;
+    height:80px;
+    margin: 1%;
+}
+
+.div6 i{
+    font-size: 40px;
+}
+
+.div6 h2{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.div7{
+    background-color: rgb(249, 55, 87);
+    text-align: center;
+    padding: 8%;
+    color: white;
+    width: 100px;
+    height:80px;
+    margin: 1%;
+}
+
+.div7 i{
+    font-size: 40px;
+}
+
+.div7 h2{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#sec4{
+    background-image: url(./1\ copy.jpg);
+    padding: 7% 15%;
+    color: white;
+
+
+}
+
+.maindiv2{
+    display: flex;
+}
+
+.div8{
+    margin: 1%;
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 500px;
+    background-color: rgb(79, 72, 72);
+}
+
+.div8 hr{
+    margin-right: 5%;
+}
+
+
+#sec5{
+  
+    padding: 5% 9%;
+}
+
+#sec5 h1{
+    font-size: 43px;
+    text-align: center;
+
+}
+
+#sec5 p{
+    text-align: center;
+
+    opacity: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.maindiv3{
+    display: flex;
+    margin-top: 4%;
+}
+
+.maindiv4{
+    display: flex;
+    /* margin-top: 4%; */
+}
+
+.div9{
+    background-color: rgb(195, 50, 195);
+    text-align: center;
+    padding: 8%;
+    color: white;
+    width: 100px;
+    height:80px;
+    margin: 1%;
+    width: 460px;
+}
+
+#sec6{
+background-image: url(./1\ copy.jpg);
+padding: 8% 0%;
+}
+
+
+.maindiv5{
+    display: flex;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.div10{
+    background-color: rgb(79, 75, 75);
+    padding: 3%;
+
+}
+.div10 h1{
+    font-size: 20px;
+}
+
+.div10 input{
+    width: 340px;
+    height: 30px;
+    background-color: transparent;
+   
+    border: 1px solid white;
+}
+
+.div10 textarea{
+    width: 340px;
+    height: 90px;
+    background-color: transparent;
+   color: white;
+    border: 1px solid white;
+}
+
+.div10 button{
+    padding: 2%;
+    width: 150px;
+    background-color: rgb(249, 55, 87);
+    color: white;
+   border: none;
+   margin-left: 58%;
+}
+
+.div11{
+    margin-left: 20px;
+}
+
+.d1{
+    background-color: rgb(79, 75, 75);
+padding: 2%;
+width: 480px;
+
+}
+
+
+.d2{
+    background-color: rgb(79, 75, 75);
+padding: 2%;
+width: 480px;
+margin-top: 21px;
+
+}
+
+
+.d3{
+    background-color: rgb(79, 75, 75);
+padding: 2%;
+width: 480px;
+margin-top: 21px;
+
+
+}
+
+.lastdiv{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 3%;
+}
+
+@media (max-width:700px) {
+
+    
+.maindiv1{
+   flex-direction: column;
+   padding-left: 40%;
+   
+}
+.maindiv5{
+    flex-direction: column;
+   
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.div11{
+   margin-top: 10%;
+  position: relative;
+  right: 60px;
+}
+}
